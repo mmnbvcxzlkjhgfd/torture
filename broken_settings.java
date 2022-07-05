@@ -20,7 +20,7 @@ public class GameSettings {
 		viewBobbing = true;
 		anaglyph = false;
 		limitFramerate = false;
-		fancyGraphics = false;
+		fancyGraphics = true;
 		field_22278_j = false;
 		antialiasing = 1;
 		lastPasswordHash = "null";
@@ -39,7 +39,7 @@ public class GameSettings {
 				keyBindSneak, keyBindDrop, keyBindInventory, keyBindChat, keyBindFunction });
 		difficulty = 1;
 		field_22277_y = false;
-		thirdPersonView = false;
+		thirdPersonView = true;
 		showDebugInfo = false;
 		lastServer = "";
 		texturePack = "Default";
